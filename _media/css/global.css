@@ -1,0 +1,9 @@
+@media screen and (max-width: 768px) {
+  .sidebar {
+    width: 100vw;
+    left: -100vw;
+  }
+  body.close .sidebar {
+    transform: translateX(100vw);
+  }
+}

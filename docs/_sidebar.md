@@ -1,11 +1,3 @@
-- JavaScript
+- 计算机原理
 
-  - [深拷贝与浅拷贝](javascript/copy.md)
-
-- Node
-
-  - [事件循环](node/event-loop.md)
-
-- Intractable Diseases
-
-  - [Node 上传文件 500](intractable-diseases/node-upload-failed.md)
+  - [浏览器进程架构](computer/browser.md)

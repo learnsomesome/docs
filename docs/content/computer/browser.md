@@ -10,7 +10,7 @@
 
   > 操作系统划分内存供不同**进程**运行，进程内通过划分不同**线程**来管理多个子任务。
 
-  <img src="https://pic3.zhimg.com/80/v2-8d714113f9f709a7458fade1342332f6_720w.jpg" alt="进程与线程"  />
+  <img src="https://pic3.zhimg.com/80/v2-8d714113f9f709a7458fade1342332f6_720w.jpg" alt="进程与线程" style="zoom:40%;" />
 
 ##### 区别与联系
 
